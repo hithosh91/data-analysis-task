@@ -9,6 +9,5 @@ This repository showcases my data analysis projects using Python (Pandas, NumPy,
 - **Database**: sql server,Mysql 
 - **Other**: Excel
 
-## Projects
 
 
