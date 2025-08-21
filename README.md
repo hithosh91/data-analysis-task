@@ -11,8 +11,4 @@ This repository showcases my data analysis projects using Python (Pandas, NumPy,
 
 ## Projects
 
-## Setup
-1. Clone the repo`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run Jupyter notebooks: `jupyter notebook analysis.ipynb`
 
